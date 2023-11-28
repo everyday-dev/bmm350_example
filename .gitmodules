@@ -1,0 +1,3 @@
+[submodule "BMM350-SensorAPI"]
+	path = BMM350-SensorAPI
+	url = https://github.com/boschsensortec/BMM350-SensorAPI.git
